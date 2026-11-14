@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+!/song/
+!/su/
+!/hyerinpark/
+venv/
+*.csv
+*.png
+*.jpg
+*.npy
+__pycache__/
+.ipynb_checkpoints/
