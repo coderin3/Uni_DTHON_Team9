@@ -1,0 +1,7 @@
+Labels are used for diagnostics only and are not model inputs.
+Transition age starts at the first observed sample with a new label, not the exact physical transition.
+The first stage segment in each experiment has unknown onset.
+Rate denominators are the actual-class rows in each bucket/experiment.
+No sample IDs, original experiment IDs, raw sensor values or images are exported.
+Experiment aliases are local to this Validation input, not anonymization guarantees.
+Probability margins do not establish that a multiplier will generalize.
