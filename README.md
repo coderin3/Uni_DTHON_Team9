@@ -3,7 +3,8 @@
 
 ## 팀 정보
 - 팀명: 9팀
-- 최종 선택 제출 파일: submission.csv
+- 최종 선택 제출 파일: submission_v9_seeds.csv
+- model, test, train 파일 위치: song/battery_v9
 
 ## 개발 환경
 - OS: Ubuntu 22.04
